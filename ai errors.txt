@@ -1,0 +1,14 @@
+
+1. Mathematical calculation
+Task: Ask AI: “What is 17 × 24?”
+Possible AI error: AI might incorrectly answer 398 instead of 408.
+Why it can happen: AI predicts text rather than actually understanding mathematics like a calculator.
+2. Current information
+Task: Ask AI: “Who is the current president/prime minister of a country?”
+Possible AI error: It may give an outdated name if it does not have access to current information.
+Why it can happen: Political positions and other current facts can change after the AI's knowledge was updated.
+3. Accounting / ACCA question
+Task: Ask AI: “What is the accounting treatment for an item under IAS 16?”
+Possible AI error: AI may apply the wrong recognition, depreciation, or revaluation treatment to a specific situation.
+Why it can happen: Accounting standards have detailed rules and exceptions, and AI may oversimplify them or confuse one standard with another.
+Main lesson: AI is useful for learning and generating ideas, but important answers—especially calculations, current facts, and professional/accounting information—should be verified with reliable sources.
